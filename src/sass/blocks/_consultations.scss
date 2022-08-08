@@ -1,0 +1,21 @@
+.consultation{
+    margin-top: 82px;
+    min-height: 680px;
+    padding: 100px 0px 92px 0px;
+    background: url('/src/img/consultation.jpg') no-repeat;
+    .title{
+        font-size: 36px;
+line-height: 1.2;
+font-weight: 700;
+text-transform: uppercase;
+
+        color:#fff;
+    }
+    &__descr{
+        font-size: 20px;
+line-height: 1.2;
+font-weight: 500;
+color: #ffffff;
+    }
+
+}
